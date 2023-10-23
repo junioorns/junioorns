@@ -10,5 +10,5 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />
-<img alt="Javascript" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3t&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3t&logoColor=white" />
 </div>
