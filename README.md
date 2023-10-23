@@ -1,16 +1,6 @@
-### Olá, que bom ter ver por aqui! 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, que bom te ver por aqui!.</h1>
 
-<p>Bem vindo a minha página! </br> Me chamo Hélio Charles , Desenvolvedor FrontEnd Jr <b>Dom Basílio, Bahia </b><img src="https://imagepng.org/wp-content/uploads/2017/06/bandeira-da-bahia-estado.png" width="15"/>
-<!--
-**junioorns/junioorns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Bem vindo a minha página! </br> Me chamo Hélio Charles , Desenvolvedor FrontEnd</br/>
+<b>Dom Basílio, Bahia </b><img src="https://imagepng.org/wp-content/uploads/2017/06/bandeira-da-bahia-estado.png" width="15"/>
 
-Here are some ideas to get you started:
-
-<p>Bem vindo a minha página! </br> Me chamo Hélio Charles , Desenvolvedor FrontEnd Jr de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dom Basílio, Bahia</b><img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Things I code with</h3>
