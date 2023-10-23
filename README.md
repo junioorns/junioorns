@@ -1,11 +1,11 @@
-### Olá, que bom ter ver por aqui, meu nome é Hélio! 👋
+### Olá, que bom ter ver por aqui! 👋
 
 <!--
 **junioorns/junioorns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 Atualmente aprendendo Reactjs ...
+<p>Bem vindo a minha página! </br> Me chamo Hélio Charles , Desenvolvedor FrontEnd Jr de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dom Basílio, Bahia</b><img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
